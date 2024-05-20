@@ -1,4 +1,4 @@
-# Orion Constellation
+## Orion Constellation ## Defensive AI
 A next generation, semi autonomous threat hunting platform enabled through cutting edge Machine Learning and good old fashion hunting.
 
 ## Orion Hunts
