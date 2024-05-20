@@ -1,3 +1,6 @@
+# Orion Constellation
+A next generation, semi autonomous threat hunting platform enabled through cutting edge Machine Learning and good old fashion hunting.
+
 ## Orion Hunts
 Orion Hunts is focused on proactive threat hunting using AI-driven analytics to identify and mitigate potential cyber threats before they can cause harm.
 [![Orion Hunts](https://img.shields.io/badge/GitHub-Orion_Hunts-blue?style=flat&logo=github)](https://github.com/orion-constellation/orion-poc)
