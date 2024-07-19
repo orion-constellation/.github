@@ -1,6 +1,6 @@
 # Synavate Labs: Orion AI Threat Intelligence Platform
 ## Vision Summary:
-Synavate Labs is developing the "Orion AI Threat Platform/Constellation," a Cyber Threat Intelligence Platform. The repositories currently reflect a blend of creativity and technical aspirations. Below is a concise summary of the concept and goals.
+Synavate Labs is developing the "Orion AI Threat Platform/Constellation". The public repositories currently reflect a blend of research and technical implementation. Below is a concise summary of the concept and goals. Ultimately,  we want to see most of the heavy lifting in a growing threat landscape handled by traditional Machine Learning Techniques blended with leveraging contemporary LLM's.
 
 ### Thesis: Adversarial AI is rapidly advancing, necessitating innovative defense strategies. Orion aims to be an offensive-defensive tool with four core components, drawing inspiration from the Orion Hunter constellation. This remains a research project with ongoing developments and learnings.
 
