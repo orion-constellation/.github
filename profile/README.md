@@ -1,6 +1,12 @@
 # Synavate Labs: Orion AI Threat Intelligence Platform
 ## Vision Summary:
-Synavate Labs is developing the "Orion AI Threat Platform/Constellation". The public repositories currently reflect a blend of research and technical implementation. Below is a concise summary of the concept and goals. Ultimately,  we want to see most of the heavy lifting in a growing threat landscape handled by traditional Machine Learning Techniques blended with leveraging contemporary LLM's.
+
+"Always Discretionary With Stochasity"
+
+!!!! Everything we do is automation first. We don't want to do anything more than three times. Ultimately the goal is to have 10-50x efficiency gains ourselves, then provide that service. !!!!!
+
+
+Synavate Labs is developing the "Orion AI Threat Platform/Constellation". The public repositories currently reflect a blend of research and technical implementation. Below is a concise summary of the concept and goals. Ultimately,  we want to see most of the heavy lifting in a growing threat landscape handled by traditional Programmatic & Machine Learning Techniques blended with leveraging contemporary LLM's.
 
 ### Thesis: Adversarial AI is rapidly advancing, necessitating innovative defense strategies. Orion aims to be an offensive-defensive tool with four core components, drawing inspiration from the Orion Hunter constellation. This remains a research project with ongoing developments and learnings.
 
@@ -36,10 +42,8 @@ Ethical Concerns: Balancing the development of powerful systems as both defensiv
 Synavate Labs is one person at this stage and we want YOU! (All coding made me become a we it appears!) 
 We aim to evaluate advanced technology for efficacy in addressing contemporary cybersecurity challenges. If you'd like to join us on this journey, please reach out.
 
-!!!! Everything we do is automation first. We don't want to do anything more than three times. Ultimately the goal is to have 10-50x efficiency gains ourselves, then provide that service. !!!!!
-
 Website: www.oriondefensiveai.com
 Email: core@synavate.tech
 Repositories:
-Orion Constellation
-Orion Hunts AI
+/Orion-Constellation
+/OrionHunts-AI
