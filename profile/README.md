@@ -11,7 +11,7 @@ Synavate Labs is developing the "Orion AI Threat Platform/Constellation". The pu
 ### Thesis: Adversarial AI is rapidly advancing, necessitating innovative defense strategies. Orion aims to be an offensive-defensive tool with four core components, drawing inspiration from the Orion Hunter constellation. This remains a research project with ongoing developments and learnings.
 
 ## Orion Constellation Components
-###Orion Threat Hunters:
+### Orion Threat Hunters:
 
 #### Function: Semi-Autonomous Threat Hunters monitor CIDR ranges or known threat actors for heuristics indicative of automated system attacks.
 Goal: Understand and identify TTPs (Tactics, Techniques, and Procedures) of attackers. Act as a distributed network rather than a host-based system.
