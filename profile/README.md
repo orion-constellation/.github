@@ -43,7 +43,7 @@ Synavate Labs is one person at this stage and we want YOU! (All coding made me b
 We aim to evaluate advanced technology for efficacy in addressing contemporary cybersecurity challenges. If you'd like to join us on this journey, please reach out.
 
 Website: www.oriondefensiveai.com
-Email: core@synavate.tech
+Email: core@oriondefensiveai.com
 Repositories:
 /Orion-Constellation
 /OrionHunts-AI
